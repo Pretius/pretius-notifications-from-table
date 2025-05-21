@@ -1,0 +1,37 @@
+{
+  "name" : "Pretius Notifications From Table",
+  "version" : "24.2",
+  "description" : "Pretius Notifications From Table plugin can be used to fetch notifications from a  database table with a given interval. Fetched notifications can be displayed as native APEX error or success messages.",
+  "keywords" : ["notification", "notifications", "errors", "alerts", "backgroud", "messages", "success"],
+  "homepage" : "https://github.com/pretius/pretius-notifications-from-table",
+  "bugs" : {
+    "url" : "https://github.com/pretius/pretius-notifications-from-table/issues",
+    "email" : "apex-plugins@pretius.com"
+  },
+  "license" : "MIT",
+  "commercial" : "No",
+  "commercially_supported":"Yes",
+  "author" : {
+    "name" : "Pretius",
+    "email" : "apex-plugins@pretius.com",
+    "url" : "http://www.pretius.com",
+    "twitter": "PretiusSoftware"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/pretius/pretius-notifications-from-table.git"
+  },
+  "oracle": {
+    "apex": { 
+      "versions": [
+        "24.1"
+      ],
+      "plugin" : {
+        "internalName" : "PRETIUS_NOTIFICATIONS_FROM_TABLE",
+        "type" : "dynamic action",
+        "demo" : "https://bit.ly/4j5C7m9",
+        "previewImage": "https://raw.githubusercontent.com/pretius/pretius-notifications-from-table/master/images/nazwaGif.gif"
+      }
+    }
+  }
+}
