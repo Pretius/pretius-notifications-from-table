@@ -30,7 +30,7 @@
         "internalName" : "PRETIUS_NOTIFICATIONS_FROM_TABLE",
         "type" : "dynamic action",
         "demo" : "https://bit.ly/4j5C7m9",
-        "previewImage": "https://raw.githubusercontent.com/pretius/pretius-notifications-from-table/master/images/nazwaGif.gif"
+        "previewImage": "https://raw.githubusercontent.com/Pretius/pretius-notifications-from-table/refs/heads/main/images/preview.png"
       }
     }
   }
