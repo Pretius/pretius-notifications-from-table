@@ -22,9 +22,10 @@
     "url" : "https://github.com/pretius/pretius-notifications-from-table.git"
   },
   "oracle": {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
     "apex": { 
       "versions": [
-        "24.1"
+        "24.2"
       ],
       "plugin" : {
         "internalName" : "PRETIUS_NOTIFICATIONS_FROM_TABLE",
