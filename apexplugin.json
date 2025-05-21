@@ -22,7 +22,7 @@
     "url" : "https://github.com/pretius/pretius-notifications-from-table.git"
   },
   "oracle": {
-    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "versions" : ["12.2.0.1"],
     "apex": { 
       "versions": [
         "24.2"
